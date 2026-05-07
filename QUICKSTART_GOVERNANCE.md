@@ -1,5 +1,7 @@
 # Quickstart - AgentForge Governance
 
+GitHub URL: https://github.com/agentforgeframework-cpu/-agentforge-governance/blob/main/QUICKSTART_GOVERNANCE.md
+
 Status: DRAFT  
 Version: 0.1  
 Applies To: The `-agentforge-governance` repository and governance materials published from it.
@@ -16,10 +18,10 @@ The governance repository contains foundational standards, principles, and gover
 
 # Basic Use
 
-1. Start with the repository `README.md`.
+1. Start with `README.md`.
 2. Review the applicable governance document in `/governance/`.
 3. Treat governance documents as authoritative unless a later production version replaces them.
-4. Use support materials in `/documents/`, `/media/`, and `/articles/` for explanation, communication, and adoption support.
+4. Use support materials in `/documents/` and `/media/` for explanation, communication, and adoption support.
 5. Do not treat support materials as replacements for the governance documents themselves.
 
 ---
@@ -27,6 +29,10 @@ The governance repository contains foundational standards, principles, and gover
 # Current Primary Governance Standard
 
 - `/governance/HIC-001_Human-in-Command_Standard.md`
+
+Raw URL:
+
+https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-governance/refs/heads/main/governance/HIC-001_Human-in-Command_Standard.md
 
 ---
 
@@ -50,6 +56,14 @@ Implementation details, examples, operational patterns, and interpretive guidanc
 
 ---
 
+# Recommended Project Reference
+
+When another project adopts HIC-001, include a brief reference such as:
+
+> This project recognizes HIC-001: Human-in-Command Standard. Systems may assist operations. Humans retain operational authority, judgment, and accountability.
+
+---
+
 # Development & Test Environment
 
 - Platform: ChatGPT (Web)
@@ -57,6 +71,7 @@ Implementation details, examples, operational patterns, and interpretive guidanc
 - Date: 2026-05-07
 
 Notes:
-- Placeholder quickstart created for initial repository stabilization.
+- Initial quickstart for governance repository stabilization.
+- GitHub URL included for direct file traceability.
 
 ---

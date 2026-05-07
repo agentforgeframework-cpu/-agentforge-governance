@@ -1,5 +1,7 @@
 # HIC-001 - Origin and Context
 
+GitHub URL: https://github.com/agentforgeframework-cpu/-agentforge-governance/blob/main/documents/HIC-001_Origin-and-Context.md
+
 Status: DRAFT  
 Version: 0.1  
 Document Type: Support document  
@@ -36,7 +38,9 @@ HIC-001 is intended to function like a foundational governance principle.
 
 It is not a procedure manual.
 
-Implementation guidance, examples, operational patterns, compliance interpretation, and public communication assets may exist separately. Those materials may explain the standard, but they do not replace it.
+Implementation guidance, examples, operational patterns, compliance interpretation, and public communication assets may exist separately.
+
+Those materials may explain the standard, but they do not replace it.
 
 This separation protects the standard from governance bloat.
 
@@ -64,6 +68,18 @@ The standard should remain stable. Supporting materials may evolve.
 
 ---
 
+# Repository Reference
+
+Canonical repository:
+
+https://github.com/agentforgeframework-cpu/-agentforge-governance
+
+Related standard:
+
+https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-governance/refs/heads/main/governance/HIC-001_Human-in-Command_Standard.md
+
+---
+
 # Development & Test Environment
 
 - Platform: ChatGPT (Web)
@@ -72,5 +88,6 @@ The standard should remain stable. Supporting materials may evolve.
 
 Notes:
 - Created as an initial support document for the `-agentforge-governance` repository.
+- GitHub URL included for direct file traceability.
 
 ---

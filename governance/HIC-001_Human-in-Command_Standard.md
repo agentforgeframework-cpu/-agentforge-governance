@@ -1,5 +1,7 @@
 # Human-in-Command Standard
 
+GitHub URL: https://github.com/agentforgeframework-cpu/-agentforge-governance/blob/main/governance/HIC-001_Human-in-Command_Standard.md
+
 Human-in-Command Standard (HIC-001)
 
 Status: PRODUCTION  
@@ -46,6 +48,7 @@ Those materials may expand upon this principle but do not replace or override it
 Notes:
 - Promoted to Production.
 - Designed as a platform-neutral operational governance standard for broad adoption across projects, workflows, organizations, and AI-assisted systems.
+- GitHub URL included for direct file traceability.
 
 ---
 
