@@ -68,6 +68,14 @@ https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-governance
 
 ---
 
+# Public Introduction
+
+The public introduction article for HIC-001 is available here:
+
+https://agentforgeframework.blogspot.com/2026/05/the-human-in-command-standard.html
+
+---
+
 # Notes
 
 This repository is intended to remain sparse, clear, and stable.

@@ -24,6 +24,14 @@ They do not replace the governance documents in `/governance/`.
 - `HIC-001_Origin-and-Context.pdf` - overview of how the Human-in-Command Standard emerged and how it should be understood.
 - `HIC-001_Origin-and-Context.md` - text source for the PDF support document.
 
+
+# AgentForgeFramework Blog Articles - https://agentforgeframework.blogspot.com/
+
+- The Human-in-Command Standard (7 May 2026)
+  https://agentforgeframework.blogspot.com/2026/05/the-human-in-command-standard.html
+
+# This file
+
 Source markdown raw URL:
 
 https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-governance/refs/heads/main/documents/HIC-001_Origin-and-Context.md
