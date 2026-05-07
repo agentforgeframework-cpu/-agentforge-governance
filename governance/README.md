@@ -1,33 +1,100 @@
 # Governance
 
-GitHub URL: https://github.com/agentforgeframework-cpu/-agentforge-governance/blob/main/governance/README.md
+GitHub URL:
+https://github.com/agentforgeframework-cpu/-agentforge-governance/blob/main/governance/README.md
 
-This folder contains canonical governance documents for the AgentForge governance repository.
+Raw URL:
+https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-governance/main/governance/README.md
 
-Governance documents define foundational standards, principles, and requirements.
+---
 
-They should remain clear, stable, and authoritative.
+## Purpose
+
+This folder contains canonical governance documents for the AgentForge ecosystem.
+
+Governance documents define:
+- foundational operational doctrine
+- governance standards
+- operational terminology
+- lifecycle guidance
+- readiness expectations
+- structural principles
+
+These documents should remain:
+- clear
+- stable
+- operational
+- durable
+- understandable
+
+---
+
+# Governance Philosophy
+
+AgentForge governance exists to support:
+- operational clarity
+- reliability
+- maintainability
+- accountability
+- trust
+
+Governance should reduce operational friction, not create it.
+
+Human judgment remains authoritative.
 
 ---
 
 # Current Documents
 
-- `HIC-001_Human-in-Command_Standard.md` - Production standard defining human authority, judgment, and accountability in responsible systems.
+## Constitutional Core
 
-Raw URL:
+- `WHAT_IS_AN_AGENTFORGE_KIT.md`
+- `AGENTFORGE_GLOSSARY.md`
+- `STANDARD_KIT_STRUCTURE.md`
+- `GOVERNANCE_TIERS.md`
+- `KIT_LIFECYCLE.md`
+- `PRODUCTION_READINESS_STANDARD.md`
+- `OUTSIDE_AGENTFORGE.md`
 
-https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-governance/refs/heads/main/governance/HIC-001_Human-in-Command_Standard.md
+## Standards
+
+- `HIC-001_Human-in-Command_Standard.md`
 
 ---
 
 # Guidance
 
-Do not place explanatory articles, visuals, PDFs, or implementation examples in this folder unless they are formal governance documents.
+Do not place:
+- explanatory articles
+- presentations
+- visuals
+- implementation examples
+- marketing materials
 
-Support materials belong in:
+…inside the governance folder unless they are formal governance artifacts.
 
-- `/documents/`
-- `/media/`
+Supporting materials belong elsewhere.
+
+---
+
+# Future Development
+
+Additional governance materials may emerge through operational use and demonstrated need.
+
+Possible future additions may include:
+- CONTRIBUTING.md
+- GOVERNANCE_PROCESS.md
+- KIT_REVIEW_CHECKLIST.md
+- RELEASE_PROCESS.md
+- INTEROPERABILITY_GUIDE.md
+
+AgentForge favors operationally justified governance over speculative process creation.
+
+---
+
+# Closing Principle
+
+> Stay disciplined. Stay human.
 
 ---
 
@@ -36,9 +103,3 @@ Support materials belong in:
 - Platform: ChatGPT (Web)
 - Model: GPT-5.5
 - Date: 2026-05-07
-
-Notes:
-- Folder README for canonical governance materials.
-- GitHub URL included for direct file traceability.
-
----
