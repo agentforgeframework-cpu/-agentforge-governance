@@ -1,66 +1,45 @@
 # STANDARD_KIT_STRUCTURE.md
 
+Repository Path: `-agentforge-governance/governance/STANDARD_KIT_STRUCTURE.md`
+GitHub URL: https://github.com/agentforgeframework-cpu/-agentforge-governance/blob/main/governance/STANDARD_KIT_STRUCTURE.md
+Raw URL: https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-governance/refs/heads/main/governance/STANDARD_KIT_STRUCTURE.md
+
+Status: SUPERSEDED / REDIRECT  
+Version: 0.2
+
+---
+
+# Redirect
+
+This file is retained for compatibility with earlier AgentForge governance references.
+
+The current canonical kit structure and operational expectations are defined in:
+
+```text
+governance/KIT_STANDARD.md
+```
+
 GitHub URL:
-https://github.com/agentforgeframework-cpu/-agentforge-governance/blob/main/governance/STANDARD_KIT_STRUCTURE.md
+
+https://github.com/agentforgeframework-cpu/-agentforge-governance/blob/main/governance/KIT_STANDARD.md
 
 Raw URL:
-https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-governance/main/governance/STANDARD_KIT_STRUCTURE.md
+
+https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-governance/refs/heads/main/governance/KIT_STANDARD.md
 
 ---
 
-## Purpose
+# Compatibility Note
 
-This document defines standard structural expectations for AgentForge Kits.
-
----
-
-# Core Principle
-
-> Capability drives structure, not the other way around.
+Earlier references to `STANDARD_KIT_STRUCTURE.md` should be interpreted through the current `KIT_STANDARD.md` unless a human determines otherwise under HIC-001.
 
 ---
 
-# Minimum Expectations
+# Development & Test Environment
 
-An AgentForge Kit should normally include:
-- a defined purpose
-- identifiable operational components
-- understandable organization
-- sufficient documentation for use
-- governance visibility appropriate to intended use
+- Platform: ChatGPT (Web)
+- Model: GPT-5.5
+- Date: 2026-05-08
 
----
-
-# Common Components
-
-A kit may include:
-- tools
-- workflows
-- standards
-- templates
-- examples
-- documentation
-- governance artifacts
-- supporting assets
-
----
-
-# Portability
-
-Kits should be portable as much as reasonably practical.
-
----
-
-# Human Authority
-
-Humans determine:
-- governance processes
-- deployment decisions
-- operational approval
-- organizational policies
-
----
-
-# Closing Principle
-
-> A good structure helps people work.
+Notes:
+- Superseded by `KIT_STANDARD.md` during first official AgentForge Kit Template stabilization.

@@ -1,6 +1,9 @@
 # Human-in-Command Standard
 
+Repository Path: `-agentforge-governance/governance/HIC-001_Human-in-Command_Standard.md`
 GitHub URL: https://github.com/agentforgeframework-cpu/-agentforge-governance/blob/main/governance/HIC-001_Human-in-Command_Standard.md
+
+
 
 Human-in-Command Standard (HIC-001)
 

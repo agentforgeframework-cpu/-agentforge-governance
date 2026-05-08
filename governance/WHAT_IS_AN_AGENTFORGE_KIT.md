@@ -1,7 +1,9 @@
 # WHAT_IS_AN_AGENTFORGE_KIT.md
 
-GitHub URL:
-https://github.com/agentforgeframework-cpu/-agentforge-governance/blob/main/governance/WHAT_IS_AN_AGENTFORGE_KIT.md
+Repository Path: `-agentforge-governance/governance/WHAT_IS_AN_AGENTFORGE_KIT.md`
+GitHub URL: https://github.com/agentforgeframework-cpu/-agentforge-governance/blob/main/governance/WHAT_IS_AN_AGENTFORGE_KIT.md
+
+
 
 Raw URL:
 https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-governance/main/governance/WHAT_IS_AN_AGENTFORGE_KIT.md

@@ -1,6 +1,9 @@
 # HIC-001 - Origin and Context
 
+Repository Path: `-agentforge-governance/documents/HIC-001_Origin-and-Context.md`
 GitHub URL: https://github.com/agentforgeframework-cpu/-agentforge-governance/blob/main/documents/HIC-001_Origin-and-Context.md
+
+
 
 Status: DRAFT  
 Version: 0.1  

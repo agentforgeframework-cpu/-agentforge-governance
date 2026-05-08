@@ -1,6 +1,9 @@
 # Media
 
+Repository Path: `-agentforge-governance/media/README.md`
 GitHub URL: https://github.com/agentforgeframework-cpu/-agentforge-governance/blob/main/media/README.md
+
+
 
 This folder contains visual and media assets that support governance documents.
 

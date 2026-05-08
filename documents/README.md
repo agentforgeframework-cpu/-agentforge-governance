@@ -1,6 +1,9 @@
 # Documents
 
+Repository Path: `-agentforge-governance/documents/README.md`
 GitHub URL: https://github.com/agentforgeframework-cpu/-agentforge-governance/blob/main/documents/README.md
+
+
 
 This folder contains PDF and document-format support materials for governance documents.
 

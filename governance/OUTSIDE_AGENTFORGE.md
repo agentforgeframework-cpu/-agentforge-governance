@@ -1,7 +1,9 @@
 # OUTSIDE_AGENTFORGE.md
 
-GitHub URL:
-https://github.com/agentforgeframework-cpu/-agentforge-governance/blob/main/governance/OUTSIDE_AGENTFORGE.md
+Repository Path: `-agentforge-governance/governance/OUTSIDE_AGENTFORGE.md`
+GitHub URL: https://github.com/agentforgeframework-cpu/-agentforge-governance/blob/main/governance/OUTSIDE_AGENTFORGE.md
+
+
 
 Raw URL:
 https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-governance/main/governance/OUTSIDE_AGENTFORGE.md

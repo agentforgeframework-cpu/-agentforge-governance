@@ -1,7 +1,9 @@
 # AGENTFORGE_GLOSSARY.md
 
-GitHub URL:
-https://github.com/agentforgeframework-cpu/-agentforge-governance/blob/main/governance/AGENTFORGE_GLOSSARY.md
+Repository Path: `-agentforge-governance/governance/AGENTFORGE_GLOSSARY.md`
+GitHub URL: https://github.com/agentforgeframework-cpu/-agentforge-governance/blob/main/governance/AGENTFORGE_GLOSSARY.md
+
+
 
 Raw URL:
 https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-governance/main/governance/AGENTFORGE_GLOSSARY.md

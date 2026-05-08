@@ -1,6 +1,9 @@
 # -agentforge-governance
 
+Repository Path: `-agentforge-governance/README.md`
 GitHub URL: https://github.com/agentforgeframework-cpu/-agentforge-governance/blob/main/README.md
+
+
 
 Foundational governance standards, principles, and operational guidance for the AgentForge ecosystem.
 
@@ -20,11 +23,13 @@ Governance materials define the principles and standards that help keep AgentFor
 -agentforge-governance/
 ├── README.md
 ├── LICENSE
-├── LOAD_GOVERNANCE.md
+├── SETUP_GOVERNANCE.md
+├── LOAD_GOVERNANCE.md        (retired redirect)
 ├── QUICKSTART_GOVERNANCE.md
 ├── governance/
 ├── documents/
-└── media/
+├── media/
+└── starter-kits/
 ```
 
 ---
@@ -48,6 +53,10 @@ These may explain, introduce, or provide background for governance documents, bu
 Visual and media assets that support governance documents.
 
 Images and compiled media support communication and adoption. They are not authoritative replacements for governance text.
+
+## `/starter-kits/`
+
+Official starter kits that demonstrate governance-aligned AgentForge kit structure.
 
 ---
 
@@ -75,6 +84,12 @@ The public introduction article for HIC-001 is available here:
 https://agentforgeframework.blogspot.com/2026/05/the-human-in-command-standard.html
 
 ---
+
+# Current Setup Standard
+
+`SETUP_*.md` is the current AgentForge setup standard.
+
+`LOAD_*.md` is retired and should redirect to the corresponding `SETUP_*.md` file when retained for compatibility.
 
 # Notes
 

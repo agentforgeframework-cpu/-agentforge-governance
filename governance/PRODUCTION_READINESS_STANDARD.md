@@ -1,7 +1,9 @@
 # PRODUCTION_READINESS_STANDARD.md
 
-GitHub URL:
-https://github.com/agentforgeframework-cpu/-agentforge-governance/blob/main/governance/PRODUCTION_READINESS_STANDARD.md
+Repository Path: `-agentforge-governance/governance/PRODUCTION_READINESS_STANDARD.md`
+GitHub URL: https://github.com/agentforgeframework-cpu/-agentforge-governance/blob/main/governance/PRODUCTION_READINESS_STANDARD.md
+
+
 
 Raw URL:
 https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-governance/main/governance/PRODUCTION_READINESS_STANDARD.md

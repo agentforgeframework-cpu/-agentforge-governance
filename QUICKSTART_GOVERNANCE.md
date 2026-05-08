@@ -1,6 +1,9 @@
 # Quickstart - AgentForge Governance
 
+Repository Path: `-agentforge-governance/QUICKSTART_GOVERNANCE.md`
 GitHub URL: https://github.com/agentforgeframework-cpu/-agentforge-governance/blob/main/QUICKSTART_GOVERNANCE.md
+
+
 
 Status: DRAFT  
 Version: 0.1  
@@ -19,10 +22,11 @@ The governance repository contains foundational standards, principles, and gover
 # Basic Use
 
 1. Start with `README.md`.
-2. Review the applicable governance document in `/governance/`.
-3. Treat governance documents as authoritative unless a later production version replaces them.
-4. Use support materials in `/documents/` and `/media/` for explanation, communication, and adoption support.
-5. Do not treat support materials as replacements for the governance documents themselves.
+2. Use `SETUP_GOVERNANCE.md` for AI-readable setup and orchestration.
+3. Review the applicable governance document in `/governance/`.
+4. Treat governance documents as authoritative unless a later production version replaces them.
+5. Use support materials in `/documents/` and `/media/` for explanation, communication, and adoption support.
+6. Do not treat support materials as replacements for the governance documents themselves.
 
 ---
 
@@ -47,6 +51,12 @@ Example:
 Projects may copy governance standards locally when needed for AI project context, but the canonical source remains this repository.
 
 ---
+
+# Current Setup Standard
+
+`SETUP_*.md` is the current AgentForge setup standard.
+
+`LOAD_*.md` is retired and retained only as a redirect when needed.
 
 # Guidance
 

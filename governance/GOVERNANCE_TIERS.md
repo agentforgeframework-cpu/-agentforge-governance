@@ -1,7 +1,9 @@
 # GOVERNANCE_TIERS.md
 
-GitHub URL:
-https://github.com/agentforgeframework-cpu/-agentforge-governance/blob/main/governance/GOVERNANCE_TIERS.md
+Repository Path: `-agentforge-governance/governance/GOVERNANCE_TIERS.md`
+GitHub URL: https://github.com/agentforgeframework-cpu/-agentforge-governance/blob/main/governance/GOVERNANCE_TIERS.md
+
+
 
 Raw URL:
 https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-governance/main/governance/GOVERNANCE_TIERS.md

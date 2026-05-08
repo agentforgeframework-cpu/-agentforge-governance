@@ -1,7 +1,9 @@
 # Governance
 
-GitHub URL:
-https://github.com/agentforgeframework-cpu/-agentforge-governance/blob/main/governance/README.md
+Repository Path: `-agentforge-governance/governance/README.md`
+GitHub URL: https://github.com/agentforgeframework-cpu/-agentforge-governance/blob/main/governance/README.md
+
+
 
 Raw URL:
 https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-governance/main/governance/README.md
@@ -103,3 +105,9 @@ AgentForge favors operationally justified governance over speculative process cr
 - Platform: ChatGPT (Web)
 - Model: GPT-5.5
 - Date: 2026-05-07
+
+- `RESERVEDNAMES.md` - Reserved operational names, folders, and naming conventions.
+
+- `KIT_STANDARD.md` - Canonical lightweight AgentForge Kit structure and operational expectations.
+
+- `VALIDATION_PHILOSOPHY.md` - AgentForge validation philosophy and /examples vs /validation boundary.

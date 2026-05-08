@@ -1,7 +1,9 @@
 # KIT_LIFECYCLE.md
 
-GitHub URL:
-https://github.com/agentforgeframework-cpu/-agentforge-governance/blob/main/governance/KIT_LIFECYCLE.md
+Repository Path: `-agentforge-governance/governance/KIT_LIFECYCLE.md`
+GitHub URL: https://github.com/agentforgeframework-cpu/-agentforge-governance/blob/main/governance/KIT_LIFECYCLE.md
+
+
 
 Raw URL:
 https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-governance/main/governance/KIT_LIFECYCLE.md
