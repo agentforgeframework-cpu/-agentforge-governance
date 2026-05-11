@@ -113,12 +113,87 @@ Examples:
 - USER_GUIDE.md
 - QUICKSTART_*.md
 - SETUP_*.md
-- LOAD_*.md
 - KIT_MANIFEST_*.md
+
+Retired names are not reserved for active use.
+
+Explicitly retired:
+- LOAD_*.md
+- QUICKSTART.md
+- SETUP.md
 
 Additional reserved names may be defined in:
 
 `agentforgeframework-cpu/-agentforge-governance/governance/standards/RESERVEDNAMES.md`
+
+---
+
+# Filename Classes
+
+## Class 1 — System / Operational Files
+
+Case:
+UPPERCASE.
+
+Purpose:
+System-level, operational, onboarding, lifecycle, support, and repository-control files.
+
+Examples:
+- README.md
+- LICENSE.md
+- CHANGELOG.md
+- RELEASE_NOTES.md
+- HELP.md
+- USER_GUIDE.md
+- QUICKSTART_<kit>.md
+- SETUP_<kit>.md
+- KIT_MANIFEST_<kit>.md
+
+Notes:
+- `README.md` is the standard folder-local orientation filename.
+- `README_*.md` is not the standard because it is clumsy and conflicts with a widely understood convention.
+- The file's repository-relative path should be documented inside the file.
+
+## Class 2 — User-Facing Tool Modules
+
+Case:
+lowercase.
+
+Purpose:
+Operational tools, command modules, reusable capability components, and functional procedures intended to be loaded, invoked, or used as tooling.
+
+Examples:
+- cleanup.md
+- deepdive.md
+- visualbrief.md
+- intake.md
+- math.md
+- diag.md
+- override.md
+- rules.md
+- chatexport.md
+
+Notes:
+- Existing MixedCase tool module filenames should be treated as rename candidates when remediation is operationally safe.
+- Do not create a separate low-level command-module case class. Low-level command modules are user-facing tool modules for naming purposes.
+
+## Class 3 — Essays
+
+Case:
+CamelCase title-style naming
+
+Purpose:
+Essays preserve reasoning, tradeoffs, operational lessons, interpretation, disagreement, and historical context without becoming governance.
+
+Examples:
+- What-Essays-Are.md
+- Visible-Disagreement-Is-Healthy.md
+- Why-Human-In-Command-Matters.md
+- AI-Involvement-vs-Integration.md
+
+Notes:
+- Essays are not governance.
+- Governance preserves authority. Essays preserve thought.
 
 ---
 
@@ -145,24 +220,19 @@ Reason:
 
 ---
 
-# Uppercase vs Lowercase Doctrine
+# Filename Recognition Doctrine
 
-Operational infrastructure and system-level files should use uppercase naming.
+AgentForge uses case to support fast recognition and operational survivability.
 
-Examples:
+- UPPERCASE names identify system / operational files.
+- lowercase names identify user-facing tool modules.
+- CamelCase title-style filenames identify essays.
+
+Do not create file names that differ only by case.
+
+Examples to avoid:
 - README.md
-- HELP.md
-- CHANGELOG.md
-- QUICKSTART_cts-kit.md
-- SETUP_cts-kit.md
-
-Operational tools and functional components should generally use lowercase naming.
-
-Examples:
-- cleanup.md
-- visualbrief.md
-- forecast.md
-- intake.md
+- readme.md
 
 ---
 
@@ -279,9 +349,21 @@ If a naming conflict becomes operationally harmful:
 
 # Historical Compatibility Philosophy
 
-Older names may remain grandfathered when practical.
+Older names may remain historically visible in documentation, changelogs, archives, or release history when needed for understanding.
 
-Modernization is permitted.
+Active operational scaffolds should not preserve retired filenames merely for compatibility when the human has approved removal.
+
+Current retired active-use names:
+- LOAD_*.md
+- QUICKSTART.md
+- SETUP.md
+
+Modernization is permitted when a name is:
+- broken
+- misleading
+- unclear
+- operationally harmful
+- causing standards propagation failure
 
 Avoid:
 - unnecessary rename churn
@@ -363,7 +445,7 @@ Recommended Location:
 
 - Platform: ChatGPT (Web)
 - Model: GPT-5.5
-- Date: 2026-05-08
+- Date: 2026-05-11
 
 Notes:
-- Initial stabilization draft based on operational patterns already established across the AgentForge ecosystem.
+- Updated during file-alignment remediation to clarify filename classes, retire LOAD_*.md and QUICKSTART.md from active use, and record the README.md folder-local exception.

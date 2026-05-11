@@ -33,6 +33,16 @@ Describe the first useful outcome a human should be able to achieve with this ki
 
 ---
 
+# Current Standard
+
+This file uses the current human-first startup naming standard: `QUICKSTART_<kit>.md`.
+
+Plain `QUICKSTART.md` is retired for kits.
+
+Use `SETUP_<kit>.md` for AI-readable setup.
+
+---
+
 # Notes
 
 Keep this file short.
@@ -47,7 +57,7 @@ Human-oriented support documents belong in `/documents/`.
 
 - Platform: ChatGPT (Web)
 - Model: GPT-5.5
-- Date: 2026-05-08
+- Date: 2026-05-11
 
 Notes:
-- Starter quickstart template.
+- Updated during file-alignment remediation to clarify current quickstart filename standards.

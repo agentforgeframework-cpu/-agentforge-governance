@@ -1,16 +1,8 @@
-# QUICKSTART_GOVERNANCE.md
+# QUICKSTART_GOVERNANCE.md — AgentForge Governance
 
-Repository Path: 
-   `-agentforge-governance/QUICKSTART_GOVERNANCE.md`
+Repository Path: `-agentforge-governance/QUICKSTART_GOVERNANCE.md`
+GitHub URL: https://github.com/agentforgeframework-cpu/-agentforge-governance/blob/main/QUICKSTART_GOVERNANCE.md
 
-GitHub URL: 
-   https://github.com/agentforgeframework-cpu/-agentforge-governance/blob/main/QUICKSTART_GOVERNANCE.md
-
-Raw URL:
-   https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-governance/refs/heads/main/QUICKSTART_GOVERNANCE.md
-
-Git Domain:
-   github.com/agentforgeframework-cpu/-agentforge-governance
 
 
 Status: DRAFT  
@@ -62,15 +54,12 @@ Projects may copy governance standards locally when needed for AI project contex
 
 # Current Setup Standard
 
-The current AgentForge setup and onboarding standard uses:
+`SETUP_*.md` is the current AgentForge setup standard.
 
-- `SETUP_*.md`
-  - AI-oriented setup and orchestration
+`LOAD_*.md` is retired and should not remain in active scaffolds.
 
-- `QUICKSTART_*.md`
-  - human-oriented onboarding and manual setup guidance
+Plain `QUICKSTART.md` is retired for kits. Use `QUICKSTART_<kit>.md`.
 
-Retired setup conventions, including `LOAD_*.md`, must not be used in active operational repositories.
 # Guidance
 
 Governance documents should remain short, stable, and authoritative.
@@ -91,10 +80,10 @@ When another project adopts HIC-001, include a brief reference such as:
 
 - Platform: ChatGPT (Web)
 - Model: GPT-5.5
-- Date: 2026-05-07
+- Date: 2026-05-11
 
 Notes:
-- Initial quickstart for governance repository stabilization.
+- Updated during file-alignment remediation to remove redirect compatibility language for retired `LOAD_*.md` files.
 - GitHub URL included for direct file traceability.
 
 ---

@@ -26,6 +26,19 @@ Starter kit for building lightweight AgentForge tool kits.
 
 ---
 
+# Current Filename Standard
+
+Starter kits should demonstrate the current AgentForge file standards:
+
+- `SETUP_<kit>.md` for AI-readable setup
+- `QUICKSTART_<kit>.md` for human-first startup
+- `README.md` in every folder
+- lowercase user-facing tool module filenames
+- no active `LOAD_*.md` files
+- no active plain `QUICKSTART.md` files
+
+---
+
 # Guidance
 
 Starter kits should remain:
@@ -43,7 +56,7 @@ Starter kits should remain:
 
 - Platform: ChatGPT (Web)
 - Model: GPT-5.5
-- Date: 2026-05-08
+- Date: 2026-05-11
 
 Notes:
-- Initial starter kits folder README.
+- Updated during file-alignment remediation to clarify current starter kit filename standards.

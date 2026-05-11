@@ -63,7 +63,11 @@ This setup file should describe:
 
 `SETUP_*.md` is the current AgentForge setup standard.
 
-`LOAD_*.md` is retired.
+`QUICKSTART_*.md` is the current AgentForge human-first startup standard.
+
+`LOAD_*.md` is retired and should not remain in active scaffolds.
+
+Plain `QUICKSTART.md` and plain `SETUP.md` are retired for kits. Use kit-specific filenames instead.
 
 ---
 
@@ -71,7 +75,7 @@ This setup file should describe:
 
 - Platform: ChatGPT (Web)
 - Model: GPT-5.5
-- Date: 2026-05-08
+- Date: 2026-05-11
 
 Notes:
-- Starter setup template.
+- Updated during file-alignment remediation to clarify current setup and quickstart filename standards.

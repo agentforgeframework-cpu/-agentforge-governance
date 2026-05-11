@@ -47,6 +47,16 @@ Version: 0.1
 
 ---
 
+# Retired Files Not Included
+
+The following retired files are not part of the current starter kit standard:
+
+- `LOAD_*.md`
+- `QUICKSTART.md`
+- `SETUP.md`
+
+---
+
 # Notes
 
 The manifest is not a package manager descriptor.
@@ -59,7 +69,7 @@ It should remain lightweight and operationally justified.
 
 - Platform: ChatGPT (Web)
 - Model: GPT-5.5
-- Date: 2026-05-08
+- Date: 2026-05-11
 
 Notes:
-- Optional starter kit manifest template.
+- Updated during file-alignment remediation to exclude retired loader and plain quickstart filenames.

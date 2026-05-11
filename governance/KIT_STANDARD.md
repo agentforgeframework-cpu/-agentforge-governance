@@ -231,8 +231,13 @@ Follow `RESERVEDNAMES.md` for reserved operational names and naming conventions.
 
 General convention:
 
-- UPPERCASE = operational infrastructure
-- lowercase = operational tools/components
+- UPPERCASE = system / operational files
+- lowercase = user-facing tool modules and operational components
+- UpperCamelCase = essays
+
+`README.md` is the standard folder-local orientation file.
+
+There is no active `LOAD_*.md` standard.
 
 ---
 
@@ -289,7 +294,7 @@ If something is found to be broken:
 
 - Platform: ChatGPT (Web)
 - Model: GPT-5.5
-- Date: 2026-05-08
+- Date: 2026-05-11
 
 Notes:
-- Initial canonical AgentForge Kit standard draft.
+- Updated during file-alignment remediation to clarify active filename case standards and retired loader status.

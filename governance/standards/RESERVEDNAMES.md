@@ -1,8 +1,11 @@
 # RESERVEDNAMES.md
 
-Repository Path: `-agentforge-governance/governance/RESERVEDNAMES.md`
-GitHub URL: https://github.com/agentforgeframework-cpu/-agentforge-governance/blob/main/governance/RESERVEDNAMES.md
-Raw URL: https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-governance/refs/heads/main/governance/RESERVEDNAMES.md
+Repository Path: `-agentforge-governance/governance/standards/RESERVEDNAMES.md`
+GitHub URL: https://github.com/agentforgeframework-cpu/-agentforge-governance/blob/main/governance/standards/RESERVEDNAMES.md
+Raw URL: https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-governance/refs/heads/main/governance/standards/RESERVEDNAMES.md
+
+Git Domain:
+github.com/agentforgeframework-cpu/-agentforge-governance
 
 Status: DRAFT  
 Version: 0.1
@@ -97,17 +100,11 @@ BAD > cleanup!.md
 
 ---
 
-# Uppercase vs Lowercase Convention
+# Filename Classes
 
-## Uppercase
+## Class 1 — System / Operational Files
 
-UPPERCASE names are reserved for:
-
-- operational infrastructure
-- system guidance
-- governance files
-- lifecycle support files
-- operational metadata
+UPPERCASE names are reserved for system and operational files.
 
 Examples:
 
@@ -118,33 +115,45 @@ QUICKSTART_cts-kit.md
 SETUP_cts-kit.md
 CHANGELOG.md
 HELP.md
+USER_GUIDE.md
+RELEASE_NOTES.md
+KIT_MANIFEST_cts-kit.md
 ```
 
----
+`README.md` is the standard folder-local orientation filename. Do not replace it with `README_*.md`.
 
-## Lowercase
+## Class 2 — User-Facing Tool Modules
 
-lowercase names are reserved for:
-
-- operational tools
-- workflows
-- executable procedures
-- reusable capability components
-- implementation utilities
-- machine-readable instructions
-
-Lowercase naming improves portability and reduces ambiguity across platforms and AI systems.
-
-Human instructions and human-oriented support materials belong in `/documents/`, not `/core-tools/`.
+lowercase names are reserved for operational tool modules and reusable capability components.
 
 Examples:
 
 ```text
 cleanup.md
-analyze.md
-forecast.md
-validation-runner.md
+deepdive.md
+visualbrief.md
+intake.md
+math.md
+diag.md
+override.md
+rules.md
+chatexport.md
 ```
+
+## Class 3 — Essays
+
+CamelCase title-style filenames are reserved for essays.
+
+Examples:
+
+```text
+What-Essays-Are.md
+Visible-Disagreement-Is-Healthy.md
+Why-Human-In-Command-Matters.md
+AI-Involvement-vs-Integration.md
+```
+
+Essays preserve reasoning. Governance preserves authority.
 
 ---
 
@@ -258,21 +267,19 @@ Creates a predictable location for detailed human guidance.
 
 ---
 
-# Legacy Compatibility
+# Retired Operational Names
 
-## LOAD_*.md
+The following names are retired from active AgentForge scaffolds and should not be created in new kits:
 
-Status:
-Retired / Transitional
+- `LOAD_*.md`
+- `QUICKSTART.md`
+- `SETUP.md`
 
-Purpose:
-Legacy operational loader format.
+`SETUP_<kit>.md` is the current AI-readable setup standard.
 
-Current Standard:
-`SETUP_*.md`
+`QUICKSTART_<kit>.md` is the current human-first startup and onboarding standard.
 
-Rule:
-If a `LOAD_*.md` file exists, it should redirect users and systems to the newer `SETUP_*.md` equivalent.
+Retired files should be removed from active repositories when remediation is approved by the human owner.
 
 ---
 
@@ -394,22 +401,14 @@ Keeps supporting material available without cluttering primary operational paths
 
 # Text File Reference Standard
 
-All text-based AgentForge files should include both:
+Text-based files should follow the current File Reference Information standard.
 
-- repository-relative path
-- full GitHub web URL
-
-Reason:
-The repository-relative path supports local clone use, offline review, and structural understanding.
-
-The full GitHub URL supports browser access, external reference, and AI retrieval.
-
-Example:
-
-```text
-Repository Path: `-agentforge-governance/governance/RESERVEDNAMES.md`
-GitHub URL: https://github.com/agentforgeframework-cpu/-agentforge-governance/blob/main/governance/RESERVEDNAMES.md
-```
+The standard defines:
+- required reference fields
+- placement guidance
+- survivability expectations
+- AI retrieval support
+- portability guidance
 
 ---
 
@@ -434,7 +433,7 @@ If operational reality reveals problems:
 
 - Platform: ChatGPT (Web)
 - Model: GPT-5.5
-- Date: 2026-05-08
+- Date: 2026-05-11
 
 Notes:
-- Initial reserved names standard for AgentForge governance stabilization.
+- Updated during file-alignment remediation to clarify filename classes and remove active compatibility language for LOAD_*.md.

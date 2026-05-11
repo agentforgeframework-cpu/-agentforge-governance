@@ -1,11 +1,21 @@
-# -agentforge-governance
 
-Repository Path: `-agentforge-governance/README.md`
-GitHub URL: https://github.com/agentforgeframework-cpu/-agentforge-governance/blob/main/README.md
-
-
+# README.md
 
 Foundational governance standards, principles, and operational guidance for the AgentForge ecosystem.
+
+
+Repository Path:
+-agentforge-governance/README.md
+
+GitHub URL:
+https://github.com/agentforgeframework-cpu/-agentforge-governance/blob/main/README.md
+
+Raw URL:
+https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-governance/refs/heads/main/README.md
+
+Git Domain:
+github.com/agentforgeframework-cpu/-agentforge-governance
+
 
 ---
 
@@ -87,9 +97,18 @@ https://agentforgeframework.blogspot.com/2026/05/the-human-in-command-standard.h
 
 # Current Setup Standard
 
-`SETUP_*.md` is the current AgentForge setup standard.
+The current AgentForge setup and onboarding standard uses:
 
-`LOAD_*.md` is retired and should redirect to the corresponding `SETUP_*.md` file when retained for compatibility.
+* `SETUP_*.md`
+
+  * AI-oriented setup and orchestration
+
+* `QUICKSTART_*.md`
+
+  * human-oriented onboarding and manual setup guidance
+
+Retired setup conventions, including `LOAD_*.md`, should not be used in active operational repositories.
+
 
 # Notes
 

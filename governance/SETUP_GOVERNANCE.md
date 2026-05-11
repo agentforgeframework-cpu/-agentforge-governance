@@ -1,18 +1,11 @@
 # SETUP_GOVERNANCE.md
 
 Repository Path: `-agentforge-governance/SETUP_GOVERNANCE.md`
-
-GitHub URL:
-https://github.com/agentforgeframework-cpu/-agentforge-governance/blob/main/SETUP_GOVERNANCE.md
-
-Raw URL:
-https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-governance/refs/heads/main/SETUP_GOVERNANCE.md
-
-Git Domain:
-github.com/agentforgeframework-cpu/-agentforge-governance
+GitHub URL: https://github.com/agentforgeframework-cpu/-agentforge-governance/blob/main/SETUP_GOVERNANCE.md
+Raw URL: https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-governance/refs/heads/main/SETUP_GOVERNANCE.md
 
 Status: DRAFT  
-Version: 0.2  
+Version: 0.3  
 Purpose: AI-readable setup guide for the AgentForge governance repository.
 
 ---
@@ -51,17 +44,15 @@ Branch:
 
 ---
 
-# Current Setup Standard
+# Current Standard
 
-The current AgentForge setup and onboarding standard uses:
+`SETUP_*.md` is the current AgentForge setup standard.
 
-- `SETUP_*.md`
-  - AI-oriented setup and orchestration
+`QUICKSTART_*.md` is the current AgentForge human-first startup standard.
 
-- `QUICKSTART_*.md`
-  - human-oriented onboarding and manual setup guidance
+`LOAD_*.md` is retired and should not remain in active scaffolds.
 
-Retired setup conventions, including `LOAD_*.md`, must not be used in active operational repositories.
+Plain `QUICKSTART.md` and plain `SETUP.md` are retired for kits. Use kit-specific filenames instead.
 
 ---
 
@@ -129,7 +120,7 @@ It should not create unnecessary bureaucracy.
 
 - Platform: ChatGPT (Web)
 - Model: GPT-5.5
-- Date: 2026-05-08
+- Date: 2026-05-11
 
 Notes:
-- Updated during file-alignment remediation to reflect the current AgentForge setup and onboarding standard.
+- Updated during file-alignment remediation to remove redirect compatibility language for retired `LOAD_*.md` files.
