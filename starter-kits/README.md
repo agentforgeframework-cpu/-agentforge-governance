@@ -4,6 +4,9 @@ Repository Path: `-agentforge-governance/starter-kits/README.md`
 GitHub URL: https://github.com/agentforgeframework-cpu/-agentforge-governance/blob/main/starter-kits/README.md
 Raw URL: https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-governance/refs/heads/main/starter-kits/README.md
 
+Git Domain:
+github.com/agentforgeframework-cpu/-agentforge-governance
+
 ---
 
 # Purpose
@@ -26,19 +29,6 @@ Starter kit for building lightweight AgentForge tool kits.
 
 ---
 
-# Current Filename Standard
-
-Starter kits should demonstrate the current AgentForge file standards:
-
-- `SETUP_<kit>.md` for AI-readable setup
-- `QUICKSTART_<kit>.md` for human-first startup
-- `README.md` in every folder
-- lowercase user-facing tool module filenames
-- no active `LOAD_*.md` files
-- no active plain `QUICKSTART.md` files
-
----
-
 # Guidance
 
 Starter kits should remain:
@@ -56,7 +46,7 @@ Starter kits should remain:
 
 - Platform: ChatGPT (Web)
 - Model: GPT-5.5
-- Date: 2026-05-11
+- Date: 2026-05-08
 
 Notes:
-- Updated during file-alignment remediation to clarify current starter kit filename standards.
+- Initial starter kits folder README.

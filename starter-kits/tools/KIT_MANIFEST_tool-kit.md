@@ -4,6 +4,9 @@ Repository Path: `-agentforge-governance/starter-kits/tools/KIT_MANIFEST_tool-ki
 GitHub URL: https://github.com/agentforgeframework-cpu/-agentforge-governance/blob/main/starter-kits/tools/KIT_MANIFEST_tool-kit.md
 Raw URL: https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-governance/refs/heads/main/starter-kits/tools/KIT_MANIFEST_tool-kit.md
 
+Git Domain:
+github.com/agentforgeframework-cpu/-agentforge-governance
+
 Status: TEMPLATE / OPTIONAL  
 Version: 0.1
 
@@ -47,16 +50,6 @@ Version: 0.1
 
 ---
 
-# Retired Files Not Included
-
-The following retired files are not part of the current starter kit standard:
-
-- `LOAD_*.md`
-- `QUICKSTART.md`
-- `SETUP.md`
-
----
-
 # Notes
 
 The manifest is not a package manager descriptor.
@@ -69,7 +62,7 @@ It should remain lightweight and operationally justified.
 
 - Platform: ChatGPT (Web)
 - Model: GPT-5.5
-- Date: 2026-05-11
+- Date: 2026-05-08
 
 Notes:
-- Updated during file-alignment remediation to exclude retired loader and plain quickstart filenames.
+- Optional starter kit manifest template.

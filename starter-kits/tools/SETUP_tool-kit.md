@@ -4,6 +4,9 @@ Repository Path: `-agentforge-governance/starter-kits/tools/SETUP_tool-kit.md`
 GitHub URL: https://github.com/agentforgeframework-cpu/-agentforge-governance/blob/main/starter-kits/tools/SETUP_tool-kit.md
 Raw URL: https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-governance/refs/heads/main/starter-kits/tools/SETUP_tool-kit.md
 
+Git Domain:
+github.com/agentforgeframework-cpu/-agentforge-governance
+
 Status: TEMPLATE  
 Version: 0.1
 
@@ -59,15 +62,17 @@ This setup file should describe:
 
 ---
 
-# Current Standard
+# Current Setup Standard
 
-`SETUP_*.md` is the current AgentForge setup standard.
+The current AgentForge setup and onboarding standard uses:
 
-`QUICKSTART_*.md` is the current AgentForge human-first startup standard.
+- `SETUP_*.md`
+  - AI-oriented setup and orchestration
 
-`LOAD_*.md` is retired and should not remain in active scaffolds.
+- `QUICKSTART_*.md`
+  - human-oriented onboarding and manual setup guidance
 
-Plain `QUICKSTART.md` and plain `SETUP.md` are retired for kits. Use kit-specific filenames instead.
+Retired setup conventions, including `LOAD_*.md`, must not be used in active operational repositories.
 
 ---
 
@@ -75,7 +80,7 @@ Plain `QUICKSTART.md` and plain `SETUP.md` are retired for kits. Use kit-specifi
 
 - Platform: ChatGPT (Web)
 - Model: GPT-5.5
-- Date: 2026-05-11
+- Date: 2026-05-08
 
 Notes:
-- Updated during file-alignment remediation to clarify current setup and quickstart filename standards.
+- Starter setup template.

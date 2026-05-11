@@ -4,6 +4,9 @@ Repository Path: `-agentforge-governance/starter-kits/tools/examples/README.md`
 GitHub URL: https://github.com/agentforgeframework-cpu/-agentforge-governance/blob/main/starter-kits/tools/examples/README.md
 Raw URL: https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-governance/refs/heads/main/starter-kits/tools/examples/README.md
 
+Git Domain:
+github.com/agentforgeframework-cpu/-agentforge-governance
+
 ---
 
 # Purpose

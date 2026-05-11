@@ -4,6 +4,9 @@ Repository Path: `-agentforge-governance/starter-kits/tools/README.md`
 GitHub URL: https://github.com/agentforgeframework-cpu/-agentforge-governance/blob/main/starter-kits/tools/README.md
 Raw URL: https://raw.githubusercontent.com/agentforgeframework-cpu/-agentforge-governance/refs/heads/main/starter-kits/tools/README.md
 
+Git Domain:
+github.com/agentforgeframework-cpu/-agentforge-governance
+
 Status: DRAFT  
 Version: 0.1
 
@@ -22,7 +25,7 @@ It is designed to be copied, renamed, and adapted by a human for a defined kind 
 This starter kit demonstrates:
 
 - required kit structure
-- README → QUICKSTART_<kit> → SETUP_<kit> doctrine
+- README → QUICKSTART → SETUP doctrine
 - `/core-tools` operational boundary
 - `/examples` demonstration boundary
 - optional folder behavior
@@ -57,14 +60,6 @@ A copied kit may remove it if no machine-oriented manifest is needed.
 # Required Customization
 
 When adapting this starter kit:
-
-Follow the current filename standards:
-
-- `SETUP_<kit>.md` for AI-readable setup
-- `QUICKSTART_<kit>.md` for human-first onboarding
-- lowercase filenames for user-facing tool modules
-- no `LOAD_*.md` files
-- no plain `QUICKSTART.md` files
 
 1. Rename `tool-kit` to the actual kit name.
 2. Rename `QUICKSTART_tool-kit.md` to match the kit name.
@@ -101,7 +96,7 @@ A local `/governance/` folder should be added only when kit-specific governance 
 
 - Platform: ChatGPT (Web)
 - Model: GPT-5.5
-- Date: 2026-05-11
+- Date: 2026-05-08
 
 Notes:
-- Updated during file-alignment remediation to clarify current setup and quickstart filename standards.
+- Initial AgentForge tool kit starter.
